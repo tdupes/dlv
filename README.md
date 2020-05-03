@@ -1,4 +1,5 @@
 # dlv: Daily Latin Verse
+Stick `dlv` in your bashrc for a more enlightened command line experience.
 
 # deps
 
